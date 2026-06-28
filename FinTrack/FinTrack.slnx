@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/DataBase/">
+    <File Path="ScriptDataBase.sql" />
+  </Folder>
   <Project Path="FinTrack.Api/FinTrack.Api.csproj" />
   <Project Path="FinTrack.Core/FinTrack.Core.csproj" />
   <Project Path="FinTrack.Tests/FinTrack.Tests.csproj" />
